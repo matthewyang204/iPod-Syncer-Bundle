@@ -21,7 +21,7 @@ To use iPod Contacts Syncer:
 3. Empty the trash. (The app created some temp files in a folder and trashed the folder to clean up after itself)
 
 To use the iPod Notes Syncer:
-1. Make sure that your note doesn't contain any bullet points or dash points. The tool doesn't play well with these text formats. Remove them if there are any present. Also, the tool will remove the following formats: Bold, Italics, Underlines, and Slashes (crossouts).
+1. Make sure that your note doesn't contain any bullet points or dash points. The tool doesn't play well with these text formats. Remove them if there are any present. Also, the tool will remove the following formats: Bold, Italics, Underlines, and Slashes (crossouts). This is done when the file is re-compiled into UTF-8 encoded format so that the iPod can read them.
 2. Launch the app from your Launchpad.
 3. In the prompt, select one note you want to sync (you can only sync 1 note at one time)
 4. In the second prompt, select your Downloads folder.
