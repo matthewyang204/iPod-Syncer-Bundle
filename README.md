@@ -4,8 +4,7 @@ A bundle that allows you to sync small pieces of information to older iPods. App
 Latest version: 1.0
 
 Download here:
-https://github.com/matthewyang204/iPod-Syncer-Bundle/releases/download/1.0/Install.iPod.Syncer.1.0.dmg
-
+https://github.com/matthewyang204/iPod-Syncer-Bundle/releases/download/1.1/Install.iPod.Syncer.1.1.dmg
 
 Requirements:
 macOS 10.13 or later
@@ -22,10 +21,12 @@ To use iPod Contacts Syncer:
 3. Empty the trash. (The app created some temp files in a folder and trashed the folder to clean up after itself)
 
 To use the iPod Notes Syncer:
-1. Make sure your iPod is connected.
-2. Launch the app. Select the note(s) from the list you want to sync. Click on the "Ok" button when you are done.
-3. Select the "Notes" folder on your iPod's disk. To do this, go to "iPod HD" tab under the Locations section in the Finder sidebar in the prompt box. Then, select (one click) on the Notes folder.
-4. Force-quit the app. For some weird reason, the current version of the app doesn't quit by itself.
+1. Launch the app from your Launchpad.
+2. In the prompt, select one note you want to sync (you can only sync 1 note at one time)
+3. In the second prompt, select your Downloads folder.
+4. Wait 15-100 seconds for another prompt to appear. (The JavaScript takes a while to find your note and export it as a .txt file containing HTML formatting.) If 100 seconds have gone by and you still don't see the prompt, go to mission control and search for it.
+5. In the third prompt, select the .txt file with the same name as the note we exported.
+6. A TextEdit window will open; wait 5 seconds and it will disappear. (The tool copies to another text file that is completely re-compiled and writes it to your iPod's disk) After it disappears, wait 3 seconds, depending on the speed of your iPod because it needs to write a new file to your iPod. Afterward, you can eject the iPod or go through this process to sync another note.
 
 To clear the Notes folder:
 1. Open Folder Eraser. It comes in the bundle. However, you can use the separate app if you installed it from my Github repository.
