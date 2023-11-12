@@ -2,7 +2,9 @@
 A bundle that allows you to sync small pieces of information to older iPods. Apple no longer officially supports syncing Contacts, Notes, and Calendars. This bundle so far contains an app that syncs contacts and an app that syncs notes. I am working on calendars.
 
 Latest version: 1.0
+
 Download here:
+https://github.com/matthewyang204/iPod-Syncer-Bundle/releases/download/1.0/Install.iPod.Syncer.1.0.dmg
 
 
 Requirements:
