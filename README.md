@@ -31,6 +31,11 @@ To use the iPod Notes Syncer:
 
 Note: Your Mac may ask you permission multiple times through this process. Always allow it, or else the tool won't get the proper data and won't be able to execute properly.
 
+To use the iPod Txt Exporter:
+1. Follow steps 6 and 7 in the iPod Notes Syncer instructions. Be sure to select the .txt file that you want to export to your iPod's notes folder.
+
+Note: Your Mac may ask you permission multiple times through this process. Always allow it, or else the tool won't get the proper data and won't be able to execute properly.
+
 To clear the Notes folder:
 1. Open Folder Eraser. It comes in the bundle. However, you can use the separate app if you installed it from my Github repository.
 2. Select the "Notes" folder on your iPod's disk. Use step 3 in the guide on iPod Notes Syncer, but use the prompt given by Folder Eraser.
