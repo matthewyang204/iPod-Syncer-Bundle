@@ -4,7 +4,7 @@ A bundle that allows you to sync small pieces of information to older iPods. App
 Latest version: 1.0
 
 Download here:
-https://github.com/matthewyang204/iPod-Syncer-Bundle/releases/download/1.1.1/Install.iPod.Syncer.1.1.dmg
+https://github.com/matthewyang204/iPod-Syncer-Bundle/releases/download/1.2/Install.iPod.Syncer.1.2.dmg
 
 Requirements:
 macOS 10.13 or later
