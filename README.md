@@ -27,7 +27,7 @@ To use the iPod Notes Syncer:
 4. In the second prompt, select your Downloads folder.
 5. Wait 15-100 seconds for another prompt to appear. (The JavaScript takes a while to find your note and export it as a .txt file containing HTML formatting, depending on the speed of your Mac.) If 100 seconds have gone by and you still don't see the prompt, go to mission control and search for it.
 6. In the third prompt, select the .txt file with the same name as the note we exported.
-7. A TextEdit window will open; wait 5 seconds and it will disappear. (The tool copies to another text file that is completely re-compiled and writes it to your iPod's disk) After it disappears, wait 3 seconds, depending on the speed of your iPod because it needs to write a new file to your iPod. Afterward, you can eject the iPod or go through this process to sync another note.
+7. A TextEdit window will open; wait 5 seconds and it will disappear. (The tool copies to another text file that is completely re-compiled and writes it to your iPod's disk) After it disappears, look at the leftmost of your menu bar icons. If you see a rotating gear, wait until it disappears. Afterward, you can eject the iPod or go through this process to sync another note.
 
 Note: Your Mac may ask you permission multiple times through this process. Always allow it, or else the tool won't get the proper data and won't be able to execute properly.
 
