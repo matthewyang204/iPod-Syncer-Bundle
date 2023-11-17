@@ -4,7 +4,7 @@ A bundle that allows you to sync small pieces of information to older iPods. App
 Latest version: 1.0
 
 Download here:
-https://github.com/matthewyang204/iPod-Syncer-Bundle/releases/download/1.2/Install.iPod.Syncer.1.2.dmg
+https://github.com/matthewyang204/iPod-Syncer-Bundle/releases/download/2.0/Install.iPod.Syncer.2.0.dmg
 
 Requirements:
 macOS 10.13 or later
@@ -30,6 +30,11 @@ To use the iPod Notes Syncer:
 7. A TextEdit window will open; wait 5 seconds and it will disappear. (The tool copies to another text file that is completely re-compiled and writes it to your iPod's disk) After it disappears, look at the leftmost of your menu bar icons. If you see a rotating gear, wait until it disappears. Afterward, you can eject the iPod or go through this process to sync another note.
 
 Note: Your Mac may ask you permission multiple times through this process. Always allow it, or else the tool won't get the proper data and won't be able to execute properly.
+
+To use iPod Calendar Syncer:
+1. Export your calendar as a .ics file. Mac Calendar: File > Export... After you click "Export...", select a location on your drive, such as the Downloads folder.
+2. Launch the iPod Calendar Syncer and select the .ics file.
+3. Click "Choose".
 
 To use the iPod Txt Exporter:
 1. Follow steps 6 and 7 in the iPod Notes Syncer instructions. Be sure to select the .txt file that you want to export to your iPod's notes folder.
