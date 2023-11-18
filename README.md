@@ -4,7 +4,7 @@ A bundle that allows you to sync small pieces of information to older iPods. App
 Latest version: 1.0
 
 Download here:
-https://github.com/matthewyang204/iPod-Syncer-Bundle/releases/download/2.0/Install.iPod.Syncer.2.0.dmg
+https://github.com/matthewyang204/iPod-Syncer-Bundle/releases/download/2.1/Install.iPod.Syncer.2.1.dmg
 
 Requirements:
 macOS 10.13 or later
@@ -42,7 +42,5 @@ To use the iPod Txt Exporter:
 Note: Your Mac may ask you permission multiple times through this process. Always allow it, or else the tool won't get the proper data and won't be able to execute properly.
 
 To clear the Notes folder:
-1. Open Folder Eraser. It comes in the bundle. However, you can use the separate app if you installed it from my Github repository.
-2. Select the "Notes" folder on your iPod's disk. Use step 3 in the guide on iPod Notes Syncer, but use the prompt given by Folder Eraser.
-3. Click "Choose".
-4. Empty the trash.
+1. Launch iPod Notes Eraser.
+2. Empty the trash.
