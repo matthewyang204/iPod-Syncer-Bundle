@@ -11,7 +11,7 @@ macOS 10.13 or later
 iPod Classic/Nano/Mini (Touches are not supported)
 iCloud account (iPod Notes Syncer needs your notes to be stored in iCloud)
 
-To install:
+To install or update:
 1. Download the disk image.
 2. Drag the folder (shows an iPod syncing) to the Applications folder alias. Your Mac may ask for your password, enter it if prompted. The app will now be in your Applications folder. You will be able to open this folder to access the apps inside.
 
